@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <form
+    style="display: flex; flex-direction: column;"
+  >
+    <div>
+      <label
+        for="task"
+      >
+        Task: 
+      </label>
+      <input
+        name="task"
+        placeholder="New task"
+        type="text"
+        value=""
+      />
+    </div>
+    <button>
+      Create
+    </button>
+  </form>
+</DocumentFragment>
+`;
